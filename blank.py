@@ -4,6 +4,6 @@
 #This program prints: Hello, World!
 i = 0
 
-while i < 26:
+while i < 25:
     print("I love Python!")
     i+=1
