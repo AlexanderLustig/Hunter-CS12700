@@ -5,5 +5,5 @@
 i = 0
 
 while i < 24:
-    print("Hello, World!")
+    print("I love Python!")
     i+=1
